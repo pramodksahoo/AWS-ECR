@@ -1,4 +1,4 @@
-# AWS-ECR
+# AWS-EC2 CONTAINER REGISTRY
 AWS ECR deployment
 
 # AWS ECR Login
